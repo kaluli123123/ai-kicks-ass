@@ -1,0 +1,25 @@
+name: Suggest a correction
+description: Report an overstated claim, missing credit, broken source, or accessibility issue.
+title: "[Correction] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where is the problem?
+      description: Link the page or identify the paragraph or image.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs to change?
+      description: Explain the problem and suggest a correction.
+    validations:
+      required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: Supporting evidence
+      description: Add sources for factual corrections or reproduction details for display problems.
+    validations:
+      required: true

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">AI Kicks Ass</title>
+  <desc id="desc">Bold cream typography and an orange lightning bolt on charcoal. Make something. Learn something. Do something.</desc>
+  <rect width="1200" height="440" rx="18" fill="#151515"/>
+  <path d="M0 18Q0 0 18 0H1182Q1200 0 1200 18V12H0Z" fill="#FF732B"/>
+  <g fill="none" stroke="#31312E" stroke-width="1">
+    <path d="M820 50V382M920 50V382M1020 50V382M1120 50V382M790 105H1150M790 205H1150M790 305H1150"/>
+    <circle cx="984" cy="219" r="145"/>
+  </g>
+  <text x="62" y="68" fill="#FF9B65" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">A LITTLE LOUD. A LOT TO SHOW.</text>
+  <text x="56" y="194" fill="#F5F2E9" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="900" letter-spacing="-5">AI KICKS</text>
+  <text x="56" y="308" fill="#F5F2E9" font-family="Arial, Helvetica, sans-serif" font-size="124" font-weight="900" letter-spacing="-6">ASS.</text>
+  <path d="M1000 64L867 233H968L930 374L1112 180H1006L1063 64Z" fill="#FF732B"/>
+  <path d="M1050 84H1011L914 209H978" fill="none" stroke="#FFBA89" stroke-width="4"/>
+  <path d="M62 345H742" stroke="#43433C"/>
+  <text x="62" y="389" fill="#CAC8BD" font-family="Arial, Helvetica, sans-serif" font-size="23">Make something. Learn something. Do something.</text>
+</svg>

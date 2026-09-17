@@ -1,0 +1,39 @@
+name: Share a win
+description: Show something AI helped you accomplish.
+title: "[Win] "
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What did you accomplish?
+      description: Describe the result and when it happened. Small wins count.
+    validations:
+      required: true
+  - type: textarea
+    id: ai-contribution
+    attributes:
+      label: What did AI do?
+      description: Name the tool or model and its specific contribution. Include its version if known.
+    validations:
+      required: true
+  - type: textarea
+    id: human-contribution
+    attributes:
+      label: What did you and other people do?
+      description: Include planning, editing, testing, and other human work.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What can someone check?
+      description: Link a public demo, code, or source. If it is only a firsthand account, state that explicitly.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: What are the limits?
+      description: Mention failures, costs, conditions, or parts that remain unverified. Say if none are known.
+    validations:
+      required: true
